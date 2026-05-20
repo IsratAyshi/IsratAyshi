@@ -2,9 +2,17 @@
 
 ## About Me
 🎓 BSc in Computer Science & Engineering — BRAC University  
-💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS
+💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
 🌱 Currently learning full-stack web development  
-🔬 Background in deep learning and satellite image processing  
+🔬 Background in deep learning and satellite image processing 
+
+## 🚀 What I'm Up To
+
+- 🐾 Currently building and deploying full-stack platforms using Next.js, Express, and MongoDB 
+- 📖 Exploring **Next.js App Router**, server components, and authentication with Better Auth, JWT etc.
+- 🎨 Diving deeper into UI/UX with theming and responsive design and learning Figma on the go
+- 🤖 Interested in exploring **Sofware Development, LLMs and AI-assisted development** as a future direction
+- 📝 Keeping a vibe coding journal to document my learning journey
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
