@@ -1,6 +1,5 @@
 # Hi there, I'm Ayshi 👋
 
-## About Me
 🎓 BSc in Computer Science & Engineering — BRAC University  
 💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
 🌱 Currently learning full-stack web development  
