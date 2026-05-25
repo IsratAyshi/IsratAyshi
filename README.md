@@ -1,19 +1,45 @@
-# Hi there, I'm Ayshi 👋
+<div align="center">
 
-🎓 BSc in Computer Science & Engineering — BRAC University  
-💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
-🌱 Currently learning full-stack web development  
-🔬 Background in deep learning and satellite image processing 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      BANNER IMAGE                         -->
+<!-- Replace banner.png with your actual image filename        -->
+<img src="./banner.png" alt="Ayshi's GitHub Banner" width="100%" style="border-radius:8px" />
+
+---
+
+### 🔗 Connect with me
+
+[![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:israt.jahan.ayshi2013@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3d2316?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-ayshi)
+[![Discord](https://img.shields.io/badge/-Discord-3d2316?style=flat&logo=discord&logoColor=white)](#)
+
+---
+
+## About me
+
+Hi, I'm **Israt Jahan Ayshi** — a Web Developer focused on building clean, scalable, and modern web applications using Next.js and the MERN stack.
+
+**Web Developer | Frontend Specialist**  
+**Next.js · MERN Stack · Tailwind CSS**  
+**Background in Deep Learning & Satellite Image Processing**  
+**Keeping a vibe coding journal to document the journey**
+
+---
 
 ## 🚀 What I'm Up To
 
-- 🐾 Currently building and deploying full-stack platforms using Next.js, Express, and MongoDB 
-- 📖 Exploring **Next.js App Router**, server components, and authentication with Better Auth, JWT etc.
-- 🎨 Diving deeper into UI/UX with theming and responsive design and learning Figma on the go
-- 🤖 Interested in exploring **Sofware Development, LLMs and AI-assisted development** as a future direction
-- 📝 Keeping a vibe coding journal to document my learning journey
+🐾 Currently building and deploying full-stack platforms using Next.js, Express, and MongoDB  
+📖 Exploring **Next.js App Router**, server components, and authentication with Better Auth & JWT  
+🎨 Diving deeper into UI/UX with theming, responsive design, and learning Figma on the go  
+🤖 Interested in exploring **Software Development, LLMs and AI-assisted development** as a future direction  
+📝 Keeping a vibe coding journal to document my learning journey
+
+---
 
 ## 🛠️ Tech Stack
+
+**Core Technologies**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
@@ -24,13 +50,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📫 Connect me
-<div >
-  
-  [![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:israt.jahan.ayshi2013@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3d2316?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/israt-jahan-ayshi)
-  [![Discord](https://img.shields.io/badge/-Discord-3d2316?style=flat&logo=discord&logoColor=white)](#)
-  
 </div>
 
 <!--
