@@ -15,14 +15,12 @@
 
 ---
 
-## About me
+# Hi there, I'm Ayshi 👋
 
-Hi, I'm **Israt Jahan Ayshi** — a Web Developer focused on building clean, scalable, and modern web applications using Next.js and the MERN stack.
-
-**Web Developer | Frontend Specialist**  
-**Next.js · MERN Stack · Tailwind CSS**  
-**Background in Deep Learning & Satellite Image Processing**  
-**Keeping a vibe coding journal to document the journey**
+🎓 BSc in Computer Science & Engineering — BRAC University  
+💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
+🌱 Currently learning full-stack web development  
+🔬 Background in deep learning and satellite image processing 
 
 ---
 
