@@ -5,13 +5,6 @@
 <!-- Replace banner.png with your actual image filename        -->
 <img src="./AyshisBanner.png" alt="Ayshi's GitHub Banner" width="100%" style="border-radius:8px" />
 
----
-
-### 🔗 Connect with me
-
-[![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:israt.jahan.ayshi2013@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3d2316?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-ayshi)
-[![Discord](https://img.shields.io/badge/-Discord-3d2316?style=flat&logo=discord&logoColor=white)](#)
 
 ---
 
@@ -45,6 +38,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 🔗 Connect with me
+
+[![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:israt.jahan.ayshi2013@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3d2316?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-ayshi)
+[![Discord](https://img.shields.io/badge/-Discord-3d2316?style=flat&logo=discord&logoColor=white)](#)
 
 </div>
 
