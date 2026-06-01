@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      BANNER IMAGE                         -->
 <!-- Replace banner.png with your actual image filename        -->
-<img src="./banner.png" alt="Ayshi's GitHub Banner" width="100%" style="border-radius:8px" />
+<img src="./AyshisBanner.png" alt="Ayshi's GitHub Banner" width="100%" style="border-radius:8px" />
 
 ---
 
