@@ -41,6 +41,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=IsratAyshi&theme=github-dark" />
+</p>
+
+---
+
 ### 🔗 Connect with me
 
 [![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:israt.jahan.ayshi2013@gmail.com)
