@@ -22,8 +22,7 @@
 🐾 Currently building and deploying full-stack platforms using Next.js, Express, and MongoDB  
 📖 Exploring **Next.js App Router**, server components, and authentication with Better Auth & JWT  
 🎨 Diving deeper into UI/UX with theming, responsive design, and learning Figma on the go  
-🤖 Interested in exploring **Software Development, LLMs and AI-assisted development** as a future direction  
-📝 Keeping a vibe coding journal to document my learning journey
+🤖 Interested in exploring **Software Development, LLMs and AI-assisted development** as a future direction 
 
 ---
 
