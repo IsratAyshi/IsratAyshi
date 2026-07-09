@@ -11,7 +11,7 @@
 # Hi there, I'm Ayshi 👋
 
 🎓 BSc in Computer Science & Engineering — BRAC University  
-💻 Web Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
+💻 Fuul Stack Developer | Frontend Specialist | Next.js · MERN stack . Tailwind CSS  
 🌱 Currently learning full-stack web development  
 🔬 Background in deep learning and satellite image processing 
 
@@ -20,8 +20,8 @@
 ## 🚀 What I'm Up To
 
 🐾 Currently building and deploying full-stack platforms using Next.js, Express, and MongoDB  
-📖 Exploring **Next.js App Router**, server components, and authentication with Better Auth & JWT  
-🎨 Diving deeper into UI/UX with theming, responsive design, and learning Figma on the go  
+📖 Exploring **Next.js App Router**, TypeScript, and responsive web design 
+🎨 Diving deeper into UI/UX with theming, motion & animation while learning Figma MCP on the go  
 🤖 Interested in exploring **Software Development, LLMs and AI-assisted development** as a future direction 
 
 ---
